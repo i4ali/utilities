@@ -1,0 +1,2 @@
+C:\Users\imgreaders\AppData\Local\WinSCP\WinSCP.com /script="C:\Users\imgreaders\Desktop\test_results\CINTRA_SOT\SyncToRemoteScript.txt"
+exit

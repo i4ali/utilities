@@ -1,0 +1,7 @@
+#Resources Can be Found here - https://winscp.net/eng/docs/scripting
+
+#option batch abort
+#option confirm off
+open sftp://root:hello123@10.35.1.48 -hostkey="ssh-rsa 2048 9a:7e:c9:5b:1f:02:7e:b5:94:b9:4b:13:0e:eb:67:00"
+synchronize local C:\Users\imgreaders\Desktop\test_results\CINTRA_SOT\LBJ_SEG_1_SOT /mnt/util-1/LBJ_SEG_1_SOT
+exit
